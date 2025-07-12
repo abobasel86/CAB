@@ -1,0 +1,19 @@
+{
+  "ports": [
+    {
+      "port": 8000,
+      "description": "Laravel Backend",
+      "visibility": "public"
+    },
+    {
+      "port": 3000,
+      "description": "React Frontend",
+      "visibility": "public"
+    },
+    {
+      "port": 3001,
+      "description": "React Frontend Alt",
+      "visibility": "public"
+    }
+  ]
+}
